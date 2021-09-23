@@ -1,0 +1,80 @@
+			<img src="resources/images/exchanges/nymex.png"  alt="NYMEX" />
+			<img src="resources/images/exchanges/ICE-50x.png"  alt="ICE" />
+			<img src="resources/images/exchanges/CME.png"  alt="CME" />
+			<img src="resources/images/exchanges/eurex.png"  alt="EUREX" />
+			<img src="resources/images/exchanges/cftc.png" alt="CFTC" />
+			<img src="resources/images/exchanges/Jodi.png"  alt="JODI" />
+			<img src="resources/images/exchanges/lme.png"  alt="LME" />
+			<img src="resources/images/exchanges/Crypto.png"  alt="CRYPTO" />
+			<img src="resources/images/exchanges/FX.png"  alt="FX" />
+			<img src="resources/images/exchanges/ECBA.png"  alt="ECB" />
+			<img src="resources/images/exchanges/Indices.png"  alt="INDICES" />
+			<img src="resources/images/exchanges/Amsterdam.png"  alt="Amsterdam" />
+			<img src="resources/images/exchanges/Argentina.png"  alt="Argentina" />
+			<img src="resources/images/exchanges/Athens.png"  alt="Athens" />
+			<img src="resources/images/exchanges/B3-Brazil.png"  alt="Brazil" />
+			<img src="resources/images/exchanges/BorseBerlin.png" alt="Berlin" />
+			<img src="resources/images/exchanges/Bombay.png" alt="Bombay" />
+			<img src="resources/images/exchanges/Borsa-Italiana.png" alt="Borsa-Italiana" />
+			<img src="resources/images/exchanges/Brussels.png" alt="Brussels" />
+			<img src="resources/images/exchanges/Budapest.png" alt="Budapest" />
+
+			<img src="resources/images/exchanges/cftc.png"  alt="CFTC" />
+			<img src="resources/images/exchanges/CME.png" alt="CME" />
+			<img src="resources/images/exchanges/Copenhagen2.png" alt="Copenhagen">
+			<img src="resources/images/exchanges/Crypto.png"  alt="CRYPTO" />
+			<img src="resources/images/exchanges/Dusseldorf.png" alt="Dusseldorf" />
+			<img src="resources/images/exchanges/DUSX.jpg"  alt="DUSX" />
+			<img src="resources/images/exchanges/ECBA.png" alt="ECB" />
+			<img src="resources/images/exchanges/eurex.png"  alt="EUREX" />
+			<img src="resources/images/exchanges/FRAX.png"  alt="FRAX" />
+			<img src="resources/images/exchanges/FX.png"  alt="FX" />
+			<img src="resources/images/exchanges/HAMX.jpg"  alt="HAMX" />
+			<img src="resources/images/exchanges/Hanoi.png"  alt="Hanoi" />
+			<img src="resources/images/exchanges/HongKong.png"  alt="HongKong" />
+			<img src="resources/images/exchanges/ICE-50x.png"  alt="ICE" />
+			<img src="resources/images/exchanges/Indonesia.png"  alt="Indonesia" />
+			<img src="resources/images/exchanges/Irish.png"  alt="Ireland" />
+
+			<img src="resources/images/exchanges/Jodi.png"  alt="JODI" />
+			<img src="resources/images/exchanges/jse.png"  alt="JSE" />
+			<img src="resources/images/exchanges/Korea.png"  alt="Korea" />
+			<img src="resources/images/exchanges/kosdaq.png"  alt="Kosdaq" />
+			<img src="resources/images/exchanges/Lisbon.png"  alt="Lisbon" />
+			<img src="resources/images/exchanges/lme.png"  alt="LME" />
+			<img src="resources/images/exchanges/LSE.png"  alt="LSE" />
+			<img src="resources/images/exchanges/LUXX.jpg"  alt="LUXX" />
+			<img src="resources/images/exchanges/Madrid-BMEX2.png"  alt="Madrid" />
+			<img src="resources/images/exchanges/Mexico.png"  alt="Mexico" />
+			<img src="resources/images/exchanges/Munich.png"  alt="Munich" />
+
+			<img src="resources/images/exchanges/NASDAQ-Baltic.png"  alt="Baltic" />
+			<img src="resources/images/exchanges/nikkei.png"  alt="nikkei" />
+			<img src="resources/images/exchanges/nymex.png"  alt="NYMEX" />
+			<img src="resources/images/exchanges/NSE.png"  alt="NSE" />
+			<img src="resources/images/exchanges/OPEC.png"  alt="OPEC" />
+			<img src="resources/images/exchanges/Oslo.png"  alt="Oslo" />
+			<img src="resources/images/exchanges/Pakistan.png"  alt="Pakistan" />
+			<img src="resources/images/exchanges/Paris.png"  alt="Paris" />
+			<img src="resources/images/exchanges/Philippines.png"  alt="Philippines" />
+			<img src="resources/images/exchanges/Poland.png"  alt="Poland" />
+
+			<img src="resources/images/exchanges/Santiago2.png"  alt="Santiago" />
+			<img src="resources/images/exchanges/SaudiArabia.png"  alt="SaudiArabia" />
+			<img src="resources/images/exchanges/Shanghai.png"  alt="Shanghai" />
+			<img src="resources/images/exchanges/Shenzhen.png"  alt="Shenzhen" />
+			<img src="resources/images/exchanges/Singapore2.png"  alt="Singapore" />
+			<img src="resources/images/exchanges/SIX-Swiss.png"  alt="Swiss" />
+			<img src="resources/images/exchanges/STUX.jpg"  alt="STUX" />
+
+			<img src="resources/images/exchanges/Taipei.png"  alt="Taipei" />
+			<img src="resources/images/exchanges/TelAviv.png"  alt="TelAviv" />
+			<img src="resources/images/exchanges/Thailand.png"  alt="Thailand" />
+			<img src="resources/images/exchanges/Tokyo.png"  alt="Tokyo" />
+			<img src="resources/images/exchanges/Toronto=TSE.png"  alt="Toronto" />
+			<img src="resources/images/exchanges/TSXX.jpg"  alt="TSXX" />
+			<img src="resources/images/exchanges/TWSE.png"  alt="TWSE" />
+			<img src="resources/images/exchanges/Vienna.png"  alt="Vienna" />
+			<img src="resources/images/exchanges/XETRA.png"  alt="XETRA" />
+			<img src="resources/images/exchanges/XHAN.png"  alt="XHAN" />
+

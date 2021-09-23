@@ -1,0 +1,121 @@
+/* floating images area */
+.floating-brands-wrapper {
+    margin-top: 50px;
+    width: 600px;
+}
+
+.item {
+    
+    padding-top: 10px;
+}
+
+.item div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.floating-brands-wrapper .item img {
+    height: 60px;
+    width: inherit !important;
+    margin: 20px 0px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.4);
+    transform: translatey(0px);
+    animation: float 6s ease-in-out infinite;
+
+}
+
+.owl-dots {
+    text-align: center;
+}
+
+.owl-dot span {
+    background: none repeat scroll 0 0 #dadada;
+    border-radius: 50%;
+    display: block;
+    height: 15px;
+    margin: 5px 7px;
+    width: 15px;
+}
+
+.owl-dot.active span {
+    background: #3a648b;
+    opacity: 1;
+}
+
+.floating-brands-wrapper .item img:nth-child(1) {
+    animation-delay: 400ms;
+}
+
+.floating-brands-wrapper .item img:nth-child(2) {
+    animation-delay: 600ms;
+}
+
+.floating-brands-wrapper .item img:nth-child(3) {
+    animation-delay: 800ms;
+}
+
+.floating-brands-wrapper .item img:nth-child(4) {
+    animation-delay: 1000ms;
+}
+
+.floating-brands-wrapper .item img:nth-child(5) {
+    animation-delay: 1200ms;
+}
+
+.floating-brands-wrapper .item img:nth-child(6) {
+    animation-delay: 140ms;
+}
+
+.floating-brands-wrapper .item img:nth-child(7) {
+    animation-delay: 700ms;
+}
+
+.floating-brands-wrapper .item img:nth-child(8) {
+    animation-delay: 900ms;
+}
+
+.floating-brands-wrapper .item img:nth-child(9) {
+    animation-delay: 300ms;
+}
+
+
+@keyframes float {
+    0% {
+        box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.4);
+        transform: translatey(0px);
+    }
+
+    50% {
+        box-shadow: 0 25px 10px 0px rgba(0, 0, 0, 0.2);
+        transform: translatey(-25px);
+    }
+
+    100% {
+        box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.4);
+        transform: translatey(0px);
+    }
+}
+
+@media screen and (max-width:767px) {
+    .floating-brands-wrapper {
+        margin-top: 50px;
+        width: 500px;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .floating-brands-wrapper {
+        margin-top: 50px;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:410px) {
+    .floating-brands-wrapper .item img {
+        width: 120px !important;
+
+    }
+}
