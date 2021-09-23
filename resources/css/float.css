@@ -21,9 +21,9 @@
     margin: 20px 0px;
     padding: 10px;
     background-color: white;
-    box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.4);
+    /*box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.4);*/
     transform: translatey(0px);
-    animation: float 6s ease-in-out infinite;
+   
 
 }
 
@@ -44,7 +44,7 @@
     background: #3a648b;
     opacity: 1;
 }
-
+ /*
 .floating-brands-wrapper .item img:nth-child(1) {
     animation-delay: 400ms;
 }
@@ -80,7 +80,7 @@
 .floating-brands-wrapper .item img:nth-child(9) {
     animation-delay: 300ms;
 }
-
+*/
 
 @keyframes float {
     0% {
